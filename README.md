@@ -1,5 +1,2 @@
-Barclays Data Analyst Experience
-Completed the Barclays Springpod virtual work experience.
-- Analysed datasets and visualised trends
-- Developed problem-solving and data interpretation skills
-- Project uploaded to GitHub for demonstration purposes
+Barclays Virtual Data Analyst Experience
+Completed the Barclays Springpod Virtual Work Experience Programme, undertaking a simulated data analyst role. Analysed complex datasets to identify patterns and trends, produced clear visual summaries of insights, and communicated findings effectively. Developed and strengthened skills in data analysis, problem-solving, and technical reporting, demonstrating readiness for further study and practical experience in data-driven environments.
